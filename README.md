@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jegor</h1>
 <h3 align="center">A beginner full-stack developer</h3>
 
-- 🌱 I’m currently learning **Java and TypeScript.**
+- 🌱 My coding languages of choice are **Java, HTML, CSS, TypeScript**.
 
-- 📫 How to reach me: **jegor.chomczuk@gmail.com**
+- 📫 Send me an email at: **jegor.chomczuk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing](https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
+- 📄 Check out my resume [https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing](https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You will find me here:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15778411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15778411" height="30" width="40" /></a>
 <a href="https://fb.com/jegor-chomczuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jegor-chomczuk" height="30" width="40" /></a>
