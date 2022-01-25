@@ -5,7 +5,7 @@
 
 - 📫 Send me an email at: **jegor.chomczuk@gmail.com**
 
-- 📄 Check out my **[resume]**(https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
+- 📄 Check out my [**resume**](https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
 
 <h3 align="left">You will find me here:</h3>
 <p align="left">
