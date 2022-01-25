@@ -5,12 +5,13 @@
 
 - 📫 Send me an email at: **jegor.chomczuk@gmail.com**
 
-- 📄 Check out my resume [https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing](https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
+- 📄 Check out my [resume](https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
 
 <h3 align="left">You will find me here:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/jegorchomczuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jegorchomczuk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15778411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15778411" height="30" width="40" /></a>
-<a href="https://fb.com/jegor-chomczuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jegor-chomczuk" height="30" width="40" /></a>
+<a href="https://fb.com/jegor.chomczuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jegor.chomczuk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
