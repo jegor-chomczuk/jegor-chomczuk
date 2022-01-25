@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jegor</h1>
 <h3 align="center">A beginner full-stack developer</h3>
 
-- 🌱 My coding languages of choice are **Java, HTML, CSS, TypeScript**.
+- 🌱 My coding languages of choice are: **Java, HTML, CSS, TypeScript**.
 
 - 📫 Send me an email at: **jegor.chomczuk@gmail.com**
 
-- 📄 Check out my [resume](https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
+- 📄 Check out my **[resume]**(https://drive.google.com/file/d/1FuesEEJr6ttrqqO0Owvl4jXs9tMYuHBn/view?usp=sharing)
 
 <h3 align="left">You will find me here:</h3>
 <p align="left">
